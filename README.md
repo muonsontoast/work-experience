@@ -1,4 +1,4 @@
-The plotting utility script has two main functions for generating plots. One generates only a top-down view of the arrangement of linear optics magnets in the Booster FODO lattice, and the other generates the sample plot and an additional plot of the beta function values as a function of s around the lattice.
+The plotting utility script has two main functions for generating plots. One generates only a top-down view of the arrangement of linear optics magnets in the Booster FODO lattice, and the other generates the same plot and an additional plot of the beta function values as a function of s around the lattice.
 
 Quadrupole face and edge colours can be changed by overriding argument parameters.
 
